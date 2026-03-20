@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30495525463",
+    "project_id": "engelsiz-rota",
+    "storage_bucket": "engelsiz-rota.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30495525463:android:29c213c371acd2ac9f7112",
+        "android_client_info": {
+          "package_name": "com.example.engelsiz_rota_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-yzz6pffCx3bH-hi77kCz9SDCtoJPbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
